@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/commoms-interfaces/commoms-interfaces.iml" filepath="$PROJECT_DIR$/commoms-interfaces/commoms-interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/db-consumer/db-consumer.iml" filepath="$PROJECT_DIR$/db-consumer/db-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/db-provider1/db-provider1.iml" filepath="$PROJECT_DIR$/db-provider1/db-provider1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/db-provider2/db-provider2.iml" filepath="$PROJECT_DIR$/db-provider2/db-provider2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-dubbozk.iml" filepath="$PROJECT_DIR$/springboot-dubbozk.iml" />
+    </modules>
+  </component>
+</project>

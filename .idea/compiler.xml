@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="commoms-interfaces" />
+        <module name="db-consumer" />
+        <module name="db-provider1" />
+        <module name="db-provider2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="commoms-interfaces" target="1.6" />
+      <module name="db-consumer" target="1.6" />
+      <module name="db-provider1" target="1.6" />
+      <module name="db-provider2" target="1.6" />
+      <module name="springboot-dubbozk" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
